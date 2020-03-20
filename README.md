@@ -1,0 +1,1 @@
+# Go IPMI library
