@@ -10,9 +10,6 @@ install:
   - go get github.com/aryann/difflib
   - go get github.com/grsmv/inflect
   - go get github.com/Knetic/govaluate
-  - go get github.com/lib/pq
-  - go get github.com/go-sql-driver/mysql
-  - go get github.com/denisenkom/go-mssqldb
   
 services:
   - postgres 
